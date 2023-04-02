@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\c++ proj\3003work\Project3\Project3\Source.cpp(208,34): warning C4018: '>': signed/unsigned mismatch
+D:\c++ proj\3003work\Project3\Project3\Source.cpp(237,34): warning C4018: '>': signed/unsigned mismatch
+  Project3.vcxproj -> D:\c++ proj\3003work\Project3\Debug\Project3.exe

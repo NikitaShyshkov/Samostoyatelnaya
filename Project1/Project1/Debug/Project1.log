@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\c++ proj\3003work\Project1\Project1\Source.cpp(18,18): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\c++ proj\3003work\Project1\Project1\Source.cpp(47,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++ proj\3003work\Project1\Project1\Source.cpp(50,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> D:\c++ proj\3003work\Project1\Debug\Project1.exe

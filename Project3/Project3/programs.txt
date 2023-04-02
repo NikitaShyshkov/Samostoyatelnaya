@@ -1,0 +1,2 @@
+Show=tsn=11:50:0=News
+Children=Sponge Bob=14:30:0=15=17
